@@ -1,13 +1,14 @@
-import React from "react";
-import { Routes, Route } from "react-router-dom";
-import Home from "./pages/Home";
-import About from "./pages/About";
+import React from 'react';
+import { Routes, Route } from 'react-router-dom';
+
+const Home = () => <h1>Home</h1>;
+const About = () => <h1>About</h1>;
 
 function App() {
   return (
     <Routes>
-      <Route path="/" element={<Home />} />
-      <Route path="/about" element={<About />} />
+      <Route path='/' element={<Home />} />
+      <Route path='/about' element={<About />} />
     </Routes>
   );
 }
