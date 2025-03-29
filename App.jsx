@@ -1,3 +1,3 @@
 export default function App() {
-  return <h1>Dermofest yayında!</h1>;
+  return <h1>DermoFest Ana Sayfa</h1>;
 }
