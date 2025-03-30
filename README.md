@@ -1,3 +1,3 @@
 # Dermofest
 
-Bu proje dermokozmetik eczane ve halka açık satışlar için hazırlanmıştır.
+Bu proje dermokozmetik satış sitesi için hazırlanmıştır.
