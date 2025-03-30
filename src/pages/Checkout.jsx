@@ -1,1 +1,1 @@
-// Checkout Page with Iyzico Integration
+export default function Checkout() { return <div>Checkout with Iyzico</div>; }
