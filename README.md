@@ -1,3 +1,3 @@
-# Dermofest
+# Dermofest E-commerce
 
-Bu proje dermokozmetik satış sitesi için hazırlanmıştır.
+Kurulum talimatları burada yer alır.
