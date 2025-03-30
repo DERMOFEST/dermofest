@@ -1,1 +1,1 @@
--- Supabase schema
+-- SQL schema for Supabase user/product/order tables
